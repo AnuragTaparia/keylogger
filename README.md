@@ -19,7 +19,7 @@ Usage of KEYLOGGER v1.0 for attacking targets without prior mutual consent is il
 ### Usage:
 
 ```
-git clone https://github.com/Sirius-Black4/keylogger-python
+git clone https://github.com/AnuragTaparia/keylogger
 cd key.py
 python3 key.py
 ```
